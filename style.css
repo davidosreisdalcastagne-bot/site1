@@ -12,6 +12,6 @@
     th {
         color: green;
     }
-    td {
+    div > td {
         color:greenyellow;
     }
