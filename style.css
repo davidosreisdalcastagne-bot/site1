@@ -15,3 +15,10 @@
     .green {
         color:greenyellow;
     }
+    #capacidade {
+        color:olive;
+        font-weight:200;
+    }
+    #faz {
+        color:olivedrab;
+    }
